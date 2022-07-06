@@ -5,6 +5,7 @@ Have you ever imagined making that drum kit on your own virtually with the help 
 # Main concepts-
     - DOM
     - key events
+    - Constructor functions
     - CSS animations
     - querySelector
     - Adding event listeners to buttons and keystrokes
